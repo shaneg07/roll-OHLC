@@ -44,7 +44,7 @@ ____________________________
 - Median : 104000 ns
 - Mode : 223000 ns
 - SD : 67722.04 ns <br />
-![alt text](https://github.com/tensorfoxhr/28072023-Shane-Gomes/blob/solution/on.jpg?raw=true)
+![alt text](https://github.com/shaneg07/roll-OHLC/blob/main/on.jpg?raw=true)
 
 <br />
 
@@ -58,7 +58,7 @@ ____________________________
 - Median : 600 ns
 - Mode : 600 ns
 - SD : 2643 ns <br />
-![alt text](https://github.com/tensorfoxhr/28072023-Shane-Gomes/blob/solution/deque.jpg?raw=true)
+![alt text](https://github.com/shaneg07/roll-OHLC/blob/main/deque.jpg?raw=true)
 
 <br />
 
