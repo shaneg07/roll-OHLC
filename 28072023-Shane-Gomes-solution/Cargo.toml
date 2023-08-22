@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "rolling_ohlc",
+    "ohlc_lib"
+]

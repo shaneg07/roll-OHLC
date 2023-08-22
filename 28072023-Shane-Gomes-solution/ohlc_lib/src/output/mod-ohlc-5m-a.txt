@@ -1,0 +1,12 @@
+{"symbol":"TURBOUSDT","timestamp":1662022800005,"open":"0.3261500","high":"0.3261500","low":"0.3261500","close":"0.3261500"}
+{"symbol":"TURBOUSDT","timestamp":1662022800043,"open":"0.3261500","high":"0.3261500","low":"0.3261000","close":"0.3261000"}
+{"symbol":"TURBOUSDT","timestamp":1662022800066,"open":"0.3261500","high":"0.3263000","low":"0.3261000","close":"0.3263000"}
+{"symbol":"TURBOUSDT","timestamp":1662022800095,"open":"0.3261500","high":"0.3264100","low":"0.3261000","close":"0.3264100"}
+{"symbol":"TURBOUSDT","timestamp":1662023100084,"open":"0.3264100","high":"0.3264100","low":"0.3262000","close":"0.3262000"}
+{"symbol":"TURBOUSDT","timestamp":1662023100086,"open":"0.3264100","high":"0.3264100","low":"0.3261500","close":"0.3261500"}
+{"symbol":"TURBOUSDT","timestamp":1662023100092,"open":"0.3264100","high":"0.3264100","low":"0.3261000","close":"0.3261000"}
+{"symbol":"FISHUSDT","timestamp":1662022800469,"open":"0.1337900","high":"0.1337900","low":"0.1337900","close":"0.1337900"}
+{"symbol":"FISHUSDT","timestamp":1662022800476,"open":"0.1337900","high":"0.1337900","low":"0.1337850","close":"0.1337850"}
+{"symbol":"TURBOUSDT","timestamp":1662023100479,"open":"0.3262000","high":"0.3262500","low":"0.3261000","close":"0.3262500"}
+{"symbol":"FISHUSDT","timestamp":1662023100484,"open":"0.1337900","high":"0.1337900","low":"0.1337900","close":"0.1337900"}
+{"symbol":"FISHUSDT","timestamp":1662023100488,"open":"0.1337900","high":"0.1337900","low":"0.1337850","close":"0.1337850"}
